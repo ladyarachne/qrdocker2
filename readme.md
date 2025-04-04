@@ -10,9 +10,7 @@ Scan this QR code to visit: [https://github.com/ladyarachne](https://github.com/
 
 ## Docker Log
 
-Below is a screenshot of the terminal showing successful QR code generation:
 
-![Docker Log](images/docker_log_screenshot.png)
 
 ## How to Run (Optional for Reviewers)
 
